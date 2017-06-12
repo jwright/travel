@@ -16,7 +16,7 @@ A daily log of my adventures in trying to not own a car.
 ## LOG
 
 | Date                    | Resource        | Cost     | Notes                                                  |
-|-------------------------|-----------------|-------------------------------------------------------------------|
+| ----------------------- | --------------- | -------- | ------------------------------------------------------ |
 | Monday, June 5, 2017    | Neighbor        |          | Hitched a ride with the neighbor to Seed/office since he was headed there |
 | Monday, June 5, 2017    | Wife            |          | My wife picked me up from my office on her way home from work. |
 | Tuesday, June 6, 2017   | Daughter's car  |          | I borrowed my daughter's car to go to client site.     |
