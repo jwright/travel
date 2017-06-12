@@ -17,8 +17,8 @@ A daily log of my adventures in trying to not own a car.
 
 | Date                    | Resource        | Cost     | Notes                                                  |
 | ----------------------- | --------------- | -------- | ------------------------------------------------------ |
-| Monday, June 5, 2017    | Neighbor        |          | Hitched a ride with the neighbor to Seed/office since he was headed there |
-| Monday, June 5, 2017    | Wife            |          | My wife picked me up from my office on her way home from work. |
-| Tuesday, June 6, 2017   | Daughter's car  |          | I borrowed my daughter's car to go to client site.     |
+| Wednesday, June 7, 2017 | Rental          | $247.88  | Rented a car for 5 days to go to conferences in Louisville and Grand Rapids, MI. |
 | Wednesday, June 7, 2017 | Lyft            | $8.75    | Took a Lyft to the car rental place to pick up rental  |
-| Wednesday, June 7, 2017 | Rental          | $247.88  | Rented a car for 5 days
+| Tuesday, June 6, 2017   | Daughter's car  |          | I borrowed my daughter's car to go to client site.     |
+| Monday, June 5, 2017    | Wife            |          | My wife picked me up from my office on her way home from work. |
+| Monday, June 5, 2017    | Neighbor        |          | Hitched a ride with the neighbor to Seed/office since he was headed there |
