@@ -22,3 +22,6 @@ A daily log of my adventures in trying to not own a car.
 | Tuesday, June 6, 2017   | Daughter's car  |          | I borrowed my daughter's car to go to client site.     |
 | Monday, June 5, 2017    | Wife            |          | My wife picked me up from my office on her way home from work. |
 | Monday, June 5, 2017    | Neighbor        |          | Hitched a ride with the neighbor to Seed/office since he was headed there |
+| Tuesday, June 13, 2017 .| Neighbor .      |          | Hitched a ride with the neighbor to Seed since he was headed there |
+| Wednesday, June 14, 2017| Wife .          |          | Dropped me off at coffee shop for meeting              |
+| Wednseday, June 14, 2017| Lyft            | $14.34   | Took Lyft from coffee shop to office downtown          |
